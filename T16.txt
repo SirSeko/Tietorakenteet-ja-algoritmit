@@ -1,0 +1,5 @@
+Kirjoita algoritmi joka saa parametrinään kaksi järjestyksessä olevaa linkitettyä listaa (A ja B).
+Poista Listoista ne alkiot jotka ovat erikoismerkkejä "&","'" ja "*". Lisää poistettavat alkiot erikoismerkki listaan
+ja järjestyksessä olevat alkiot tulos listaan niin että järjestys pysyy oikeana esim. A, B, C jne..
+
+Tässä tehtävässä haasteena olisi erotella tietyt erikoismerkit muista alkioista mahdollismman tehokkaasti, sekä pitää järjestys oikeana tämän jälkeen. Vaativuudeltaan tämä olisi vaikea.

@@ -1,0 +1,4 @@
+Kirjoita algoritmi joka laskee kuinka monet joukot eivät leikkaa toisiaan. Syötteenä on joukkojen joukko Set<Set<E>> SettienSetti
+Tuloksena on HashMap jonka avaimena on ne setit jotka eivät leikkaa toisiaan ja arvoiksi luodaan uusi joukkojen joukko jokaista
+syötejoukkoa kohden jotka eivät leikkaa keskenään.
+Tämä on siis käänteinen tehtävä X7 tehtävästä.
