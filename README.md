@@ -1,2 +1,4 @@
 TRAI kurssin tehtävät
-Viikoilta 2 - 8
+Viikoilta 1 - 8
+
+X-tehtävät omassa kansiossa
